@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/Idan-Enatayev-25-05-2023/static/css/main.65e176e0.css",
-    "main.js": "/Idan-Enatayev-25-05-2023/static/js/main.f4640331.js",
+    "main.js": "/Idan-Enatayev-25-05-2023/static/js/main.4471c945.js",
     "static/js/787.ec78c698.chunk.js": "/Idan-Enatayev-25-05-2023/static/js/787.ec78c698.chunk.js",
     "static/media/SeaofClouds.png": "/Idan-Enatayev-25-05-2023/static/media/SeaofClouds.6923a7e2f69c81600906.png",
     "index.html": "/Idan-Enatayev-25-05-2023/index.html",
     "main.65e176e0.css.map": "/Idan-Enatayev-25-05-2023/static/css/main.65e176e0.css.map",
-    "main.f4640331.js.map": "/Idan-Enatayev-25-05-2023/static/js/main.f4640331.js.map",
+    "main.4471c945.js.map": "/Idan-Enatayev-25-05-2023/static/js/main.4471c945.js.map",
     "787.ec78c698.chunk.js.map": "/Idan-Enatayev-25-05-2023/static/js/787.ec78c698.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.65e176e0.css",
-    "static/js/main.f4640331.js"
+    "static/js/main.4471c945.js"
   ]
 }
